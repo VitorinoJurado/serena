@@ -1,0 +1,15 @@
+{
+  "name": "serena",
+  "versiiion": "1.0.0",
+  "description": "Multi-purpose utility bot for the VTSC community.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kal",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "fs": "0.0.1-security"
+  }
+}
